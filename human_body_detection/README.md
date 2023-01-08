@@ -6,7 +6,9 @@ Tried several methods, the skeleton detection is the one needed.
 
 1. MediaPipe pose estimation
     Good for near object but bad for far or small people recognition.
-    [example](../resources/cf-skeleton-recognition-mediapipe.gif)
+2. [MoveNet](https://blog.tensorflow.org/2021/05/next-generation-pose-detection-with-movenet-and-tensorflowjs.html)
+   [Tutorial](https://www.tensorflow.org/hub/tutorials/movenet)
+
 
 
 ## Darknet YOLOv3
@@ -15,7 +17,6 @@ Tried several methods, the skeleton detection is the one needed.
 Only bounding box detected.
 
 Reference: https://thedatafrog.com/en/articles/object-detection-darknet/
-
 
 ## HOG
 

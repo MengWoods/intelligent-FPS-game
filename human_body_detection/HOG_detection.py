@@ -1,4 +1,5 @@
 # Histograms of Oriented Gradients
+# https://thedatafrog.com/en/articles/human-detection-video/
 # import the necessary packages
 import numpy as np
 import cv2
