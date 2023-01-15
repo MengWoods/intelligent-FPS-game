@@ -1,6 +1,6 @@
 # Human body detection methods
 
-Tried several methods, the skeleton detection is the one needed.
+Tried several methods, the skeleton detection and head bounding box detection can be used for the purpose.
 
 ## Skeleton detection
 
@@ -14,7 +14,9 @@ Tried several methods, the skeleton detection is the one needed.
 ## Darknet YOLOv3
 
 
-Only bounding box detected.
+Only bounding box detected. It can be used to locate player's head.
+
+1. 
 
 Reference: https://thedatafrog.com/en/articles/object-detection-darknet/
 
